@@ -1,7 +1,8 @@
-
-#Shreya B Deshpande
-#This project is done through Codecademy
-#This project prints the presented initials of the first name and last name 
+# -----------------------------------------------------------------------------------------------------------
+# Shreya B Deshpande
+# This project is done through Codecademy
+# This project prints the presented initials of the first name and last name 
+# -----------------------------------------------------------------------------------------------------------
 first_name = '''
  SSS
 S   S
